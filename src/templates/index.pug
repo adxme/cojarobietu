@@ -1,0 +1,11 @@
+doctype html
+html
+  head
+    != js()
+    != js_bower()
+    != css()
+    != css_bower()
+    meta(charset='utf-8')
+  body
+    | hello world
+    != js_afterload()

@@ -1,0 +1,19 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "repository": {},
+  "moduleType": [
+    "globals",
+    "amd",
+    "node"
+  ],
+  "keywords": [],
+  "authors": [],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "bower_components"
+  ]
+}
